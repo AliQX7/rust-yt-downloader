@@ -1,0 +1,8 @@
+[package]
+name = "youtube-downloader"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rustube = "0.6"
+tokio = { version = "1", features = ["full"] }
