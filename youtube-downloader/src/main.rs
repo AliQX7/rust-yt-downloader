@@ -23,3 +23,4 @@ async fn main() -> Result<(), Box<dyn Error>> {
     println!("Download complete!");
     Ok(())
 }
+
